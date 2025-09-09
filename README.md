@@ -1,5 +1,5 @@
-# Bank_churn_Dataset
+# Walmart_customer_purchases
 
 **Dataset**
 
-This file contains a synthetic dataset of customer information for a fictional bank in Botswana, specifically designed for analyzing customer churn. The dataset includes 17 Columns and 115,640 rows, with each row representing a unique customer.
+This dataset contains 50,000 customer transactions from Walmart, capturing essential details about consumer shopping behavior. It includes demographic information, product categories, purchase amounts, discounts, and ratings, making it useful for data analysis, customer segmentation, and sales forecasting.
